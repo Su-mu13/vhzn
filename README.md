@@ -12,3 +12,5 @@ $jhadhaj$
 ### F $^M$
 
 `F $^M$`
+
+`F<sup>M</sup>`
