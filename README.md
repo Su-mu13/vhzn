@@ -3,8 +3,10 @@
 This is a test.
 $\alpha$
 
-IHOP$^M$
+F$^M$
 
-### IHOP$^M$
+$jhadhaj$
 
-`IHOP$^M$`
+### F$^M$
+
+`F$^M$`
