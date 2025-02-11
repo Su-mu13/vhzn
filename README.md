@@ -5,6 +5,8 @@ $\alpha$
 
 F $^M$
 
+F<sup>M</sup>
+
 $jhadhaj$
 
 ### F $^M$
