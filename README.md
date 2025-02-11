@@ -3,10 +3,10 @@
 This is a test.
 $\alpha$
 
-F$^M$
+F $^M$
 
 $jhadhaj$
 
-### F$^M$
+### F $^M$
 
-`F$^M$`
+`F $^M$`
