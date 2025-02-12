@@ -21,4 +21,3 @@ $jhadhaj$
 
 `f` : $\mu$
 
-`'ikk'`: {$initial temperature$: 200, $'cooling rate'$: 0.999, '$termination temperature$': $10^{-10}$, '$rejection threshold$': 1500}, 
